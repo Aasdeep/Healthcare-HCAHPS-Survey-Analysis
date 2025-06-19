@@ -8,9 +8,6 @@ The Hospital Consumer Assessment of Healthcare Providers and Systems **(HCAHPS) 
 - It was developed by the Centres for Medicare & Medicaid Services (CMS) in collaboration with the Agency for Healthcare Research & Quality (AHRQ).
 - **The primary goal of the HCAHPS survey is to collect feedback from patients about their care experiences, to improve the quality of healthcare services provided by hospitals**.
 
-This report was made for Maven Ana![image](https://github.com/user-attachments/assets/f39521f1-353a-4a4d-99ec-74d31a39ba27)
-lytics’ Healthcare challenge.
-
 ### Role 
 Participants were tasked to play the role of a Data Analyst for the American Hospital Association (AHA), a national organization that represents hospitals and their patients and acts as a source of information on healthcare issues and trends.
 
